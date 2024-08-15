@@ -1,0 +1,13 @@
+tipo:gasolina barata:100:1000000.0
+tipo:gasolina normal:500:9899999.0
+tipo:gasolina no tan barata:180:19999.055555555555
+tipo:gasolina cara:999999:0.0
+surtidor:Santiago:gasolina barata:0.0:gasolina normal:0.0:gasolina no tan barata:0.0:gasolina cara:100.0
+surtidor:Jaun Pablo:gasolina barata:0.0:gasolina normal:0.0:gasolina no tan barata:0.9444444444444444:gasolina cara:0.0
+surtidor:Estefania:gasolina barata:0.0:gasolina normal:1.0:gasolina no tan barata:0.0:gasolina cara:0.0
+surtidor:Laura:gasolina barata:0.0:gasolina normal:0.0:gasolina no tan barata:0.0:gasolina cara:0.0
+empleado:Marta:0
+empleado:Santiago:99999900
+empleado:Laura:0
+empleado:Jaun Pablo:170
+empleado:Estefania:500
